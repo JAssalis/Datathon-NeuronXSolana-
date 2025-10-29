@@ -1,0 +1,14 @@
+﻿date,event_name,event_description,impact_type,impact_intensity,duration_hours,sentiment,affects_ribercoin,affects_sentiment
+DATA_INVALIDA,Aniversário de Ribeirania 2022,Foi um aniversário muito ruim,crash,0.9,128,-0.9,SIM,SIM
+2023-06-19,Aniversário de Ribeirania 2023,Comemoração do aniversário da cidade,pump,0.75,120,0.82,SIM,SIM
+2024-06-19,Aniversário de Ribeirania 2024,Comemoração do aniversário da cidade - MEGA PUMP,pump,0.95,168,0.95,SIM,SIM
+2022-12-25,Natal 2022,,slight_pump,4.4821166943397985,72,0.7,SIM,SIM
+2023-12-25,Natal 2023,Festividades de fim de ano,slight_pump,0.85,72,-0.75,SIM,SIM
+2024-12-25,Natal 2024,,slight_pump,0.4,72,0.8,SIM,SIM
+2022-03-15,Festival de Música Ribeirania,Grande festival de música na cidade,slight_pump,0.4,96,0.8,SIM,SIM
+2023-08-10,Inauguração RiberTech Hub,Novo hub de tecnologia na cidade,pump,0.65,168,0.85,SIM,SIM
+DATA_INVALIDA,Crise Hídrica Ribeirania,Problemas no abastecimento de água,crash,8.830644772483925,240,-0.6,SIM,SIM
+2024-02-14,Anúncio Grande Empresa,Empresa tech anuncia investimento em Ribeirania,pump,7.406492008497328,144,0.88,SIM,SIM
+2023-01-15,BanBan Açaí Investindo em Ribeirania,Descrição do evento customizado,pump,0.5,120,0.7,SIM,SIM
+2023-01-15,BanBan Açaí Investindo em Ribeirania,Descrição do evento customizado,pump,0.5,120,0.7,SIM,SIM
+2024-02-14,Anúncio Grande Empresa,Empresa tech anuncia investimento em Ribeirania,pump,0.7,144,0.88,SIM,SIM
