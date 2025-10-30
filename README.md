@@ -2,7 +2,7 @@
 
 Este repositório reúne os códigos e dados utilizados no Datathon da Neuron DS&AI, realizado durante o AI & Data Week 2025 em parceria com a Solana Brasil.
 
-O evento desafiou os participantes a extrair insights e análises de uma base de dados sintética, construída para simular o ecossistema cripto de uma cidade fictícia (Ribeirania). O foco foi em análise de dados, garantia de qualidade (data quality) e detecção de padrões comportamentais.
+O evento desafiou os participantes a extrair insights e análises de uma base de dados sintética, construída para simular o ecossistema cripto de uma cidade fictícia (Ribeirania). O foco foi em análise de dados, detecção de padrões comportamentais e criação de insights dos fatos que estavam ocorrendo na cidade fictícia.
 
 ## Estrutura do Repositório
 ```
