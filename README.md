@@ -72,8 +72,8 @@ Esta seção documenta o processo de geração dos datasets.
 ### 1. Clone este repositório
 
 ```bash
-git clone https://github.com/[seu-usuario]/[nome-do-repositorio].git
-cd [nome-do-repositorio]
+git clone https://github.com/JAssalis/Datathon-NeuronXSolana-2025.git
+cd Datathon-NeuronXSolana-2025
 ```
 
 ### 2. Instale as dependências
