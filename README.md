@@ -122,7 +122,7 @@ Mova manualmente todos os arquivos `*_dirty.csv` gerados na raiz para a pasta `d
 
 ## Equipe Organizadora
 
-- **Coordenação técnica da base de dados:** João Vitor Assalis Pedroso
+- **Coordenação técnica da base de dados:** João Vitor Assalis Pedroso e Pedro Piccino
 - **Equipe organizadora e de apoio:** Giovanni Fittipaldi Prado
 - **Banca avaliadora:** João Vitor Assalis Pedroso, Professor Doutor Marcelo Botelho da Costa Moraes, Professor Doutor Rafael de Freitas Souza
 
